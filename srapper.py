@@ -3,8 +3,27 @@
 # python -m pip install beautifulsoup3
 # => parse html
 
-# git confin --global user.name "Dhiraj591006"
-# git confing --global user.gamil "dhirajdiwana0031.com" 
+# install git
+# create repository in github
+
+# go to git bash 
+# git config --global user.name "Dhiraj591006"
+#  git config --global user.gmail "dhirajdiwwana0031@gmail.com"
+
+
+# git init 
+# # git status => if you want to check what are the status of file
+# git diff => if you want to check what are the changes
+# git add .
+# git commit -m "your message"
+# git push origin => update the code 
+# copy paste git from code
+
+##################################
+# 1. change the code
+# 2. git add .
+# 3. git commit -m "your message"
+# 4. git push origin
 
 
 
